@@ -11,6 +11,11 @@ h1 {
   font-size: 48px;
 }
 
+.content-title {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
 h2 {
   font-size: 40px;
 }
@@ -135,8 +140,13 @@ html, body, #page {
 #menu {
   overflow: auto;
   background-color: #ffffff;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5em;
+  padding-bottom: 5em;
+
+  h1 {
+    color: #312012;
+  }
+
   .menu-row {
 
     width: 90%;
@@ -162,6 +172,13 @@ html, body, #page {
 @media (max-width: 480px){
 
   #menu {
+
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+    h1 {
+      font-size: 32px;
+    }
     .menu-row {
       width: 100%;
 
@@ -185,10 +202,10 @@ html, body, #page {
   background-color: #dcc39b;
   padding: 20px;
   padding-top: 5em;
+  padding-bottom: 5em;
 
   h1 {
-    text-align: center;
-    margin-bottom: 1em;
+    color: rgba(49, 32, 18, 0.41);
   }
 
   #testimonial {
@@ -197,6 +214,8 @@ html, body, #page {
     margin: 0 auto;
 
     li {
+
+      color: rgba(49, 32, 18, 0.9);
       overflow: auto;
       padding: 20px;
       border-bottom: 1px dotted #919191;
@@ -218,6 +237,30 @@ html, body, #page {
       }
     }
   }
+}
+
+@media (max-width: 480px){
+
+  #testimonials {
+
+    h1 {
+      font-size: 32px;
+    }
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+    #testimonial {
+      width: 100%;
+
+      li {
+        padding-left: 0px;
+        padding-right: 0px;
+      }
+    }
+
+  }
+
+
 }
 
 

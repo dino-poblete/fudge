@@ -4,7 +4,7 @@
     <list default="true" id="79056b10-5092-479d-855d-4d5a4f0865a1" name="Default" comment="" />
     <ignored path="less-example.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383315560168" ignored="false" />
+    <file path="/index.html" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383316117303" ignored="false" />
     <file path="/bootstrap.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1379925087022" ignored="false" />
     <file path="/Dummy.txt" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380001068824" ignored="false" />
     <file path="$USER_HOME$/Grails/laiya-app/grails-app/views/root/celebrations.gsp" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1379999109491" ignored="false" />
@@ -28,7 +28,7 @@
     <file path="/_room.gsp" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380006593430" ignored="false" />
     <file path="$USER_HOME$/Grails/laiya-app/web-app/js/application.js" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380008466435" ignored="false" />
     <file path="/application.js" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380008464975" ignored="false" />
-    <file path="/styles.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383315766977" ignored="false" />
+    <file path="/styles.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383317198873" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +92,13 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="182" column="4" selection-start="6322" selection-end="6322" vertical-scroll-proportion="-4.607595">
+            <state line="51" column="87" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-3.0886075">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -116,7 +117,7 @@
       <file leaf-file-name="styles.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="190" column="20" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.32935917">
+            <state line="177" column="4" selection-start="2215" selection-end="2215" vertical-scroll-proportion="-0.29657227">
               <folding />
             </state>
           </provider>
@@ -416,6 +417,7 @@
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -507,12 +509,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="4" selection-start="6322" selection-end="6322" vertical-scroll-proportion="-4.607595">
+        <state line="51" column="87" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-3.0886075">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -520,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="20" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.32935917">
+        <state line="177" column="4" selection-start="2215" selection-end="2215" vertical-scroll-proportion="-0.29657227">
           <folding />
         </state>
       </provider>
