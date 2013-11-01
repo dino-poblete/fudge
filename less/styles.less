@@ -26,6 +26,9 @@ html, body, #page {
   padding: 0;
 }
 
+.nopadding {
+  padding: 0;
+}
 //HEADER STYLES
 
 .notouch #header {
@@ -36,7 +39,7 @@ html, body, #page {
 
 #header {
   overflow: hidden;
-  background: url('../images/fudge1.jpg') fixed no-repeat;
+  background: url('../images/fudge-background.jpg') fixed no-repeat;
   height: 100%;
 
   -webkit-background-size: cover;
@@ -91,7 +94,43 @@ html, body, #page {
 //TOP BAR STYLES
 
 #top-bar {
-  height: 400px;
+  height: 0px;
   background-color: #312012;
+}
+
+#features {
+  height: 600px;
+  background-color: #312012;
+}
+
+#menu {
+  overflow: auto;
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .menu-row {
+
+    width: 90%;
+    margin: 0 auto;
+
+    .menu-item {
+
+      margin: 10px;
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+}
+
+#testimonials {
+  height: 600px;
+  background-color: #e8d99e;
+}
+
+#contact {
+  height: 600px;
+  background-color: #ffffff;
 }
 

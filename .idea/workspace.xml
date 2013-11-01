@@ -4,7 +4,7 @@
     <list default="true" id="79056b10-5092-479d-855d-4d5a4f0865a1" name="Default" comment="" />
     <ignored path="less-example.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383281075825" ignored="false" />
+    <file path="/index.html" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383290259292" ignored="false" />
     <file path="/bootstrap.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1379925087022" ignored="false" />
     <file path="/Dummy.txt" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380001068824" ignored="false" />
     <file path="$USER_HOME$/Grails/laiya-app/grails-app/views/root/celebrations.gsp" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1379999109491" ignored="false" />
@@ -28,7 +28,7 @@
     <file path="/_room.gsp" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380006593430" ignored="false" />
     <file path="$USER_HOME$/Grails/laiya-app/web-app/js/application.js" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380008466435" ignored="false" />
     <file path="/application.js" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1380008464975" ignored="false" />
-    <file path="/styles.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383280173964" ignored="false" />
+    <file path="/styles.less" changelist="79056b10-5092-479d-855d-4d5a4f0865a1" time="1383290123158" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +89,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="32" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-20.625">
+            <state line="49" column="44" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.25339368">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -112,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="15" selection-start="257" selection-end="257" vertical-scroll-proportion="0.37190083">
+            <state line="117" column="15" selection-start="1523" selection-end="1523" vertical-scroll-proportion="-9.472727">
               <folding />
             </state>
           </provider>
@@ -132,8 +132,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/less/bootstrap.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/styles.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -531,27 +531,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="15" selection-start="1523" selection-end="1523" vertical-scroll-proportion="-9.472727">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="32" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-20.625">
+        <state line="49" column="44" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.25339368">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/fudge1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="15" selection-start="257" selection-end="257" vertical-scroll-proportion="0.37190083">
-          <folding />
         </state>
       </provider>
     </entry>
