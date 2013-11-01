@@ -181,9 +181,45 @@ html, body, #page {
 
 
 #testimonials {
-  height: 600px;
-  background-color: #e8d99e;
+
+  background-color: #dcc39b;
+  padding: 20px;
+  padding-top: 5em;
+
+  h1 {
+    text-align: center;
+    margin-bottom: 1em;
+  }
+
+  #testimonial {
+    list-style-type: none;
+    width: 90%;
+    margin: 0 auto;
+
+    li {
+      overflow: auto;
+      padding: 20px;
+      border-bottom: 1px dotted #919191;
+
+      blockquote {
+        font-style: italic;
+        margin-left: 10px;
+        padding-left: 35px;
+        background: url('../images/quote-l.png'), url('../images/quote-r.png');
+        background-position: left top, right bottom;
+        background-repeat: no-repeat, no-repeat;
+        border-left: 0px;
+
+        .author {
+          font-style: normal;
+          float: right;
+          padding-right: 30px;
+        }
+      }
+    }
+  }
 }
+
 
 #contact {
   height: 600px;

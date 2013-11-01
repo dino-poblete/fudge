@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/less-example.iml" filepath="$PROJECT_DIR$/less-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fudge.iml" filepath="$PROJECT_DIR$/fudge.iml" />
     </modules>
   </component>
 </project>
